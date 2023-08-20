@@ -1,0 +1,23 @@
+{
+    "params": {
+        "local_server":"True",
+        "local_uri": "mysql://root:@localhost/miniblog",
+        "prod_uri":"mysql://root:@localhost/miniblog",
+        "fb_url":"https://facebook.com/",
+        "tw_url":"https://twitter.com/",
+        "gh_url": "https://github.com/20nikhil02",
+        "blog_name": "Create Blog",
+        "tag_line": "Visit my Website Also",
+        "websitename": "CreateBlog",
+
+        "gmail-user": "udemyn778@gmail.com",
+        "gmail-password": "kvttamyloxneuqhg",
+
+        "about_text": "Hi my name is Nikhil Nayak B V ",
+        "no_of_posts": 3,
+        "login_image":"login.svg",
+        "admin_user":"Nikhil",
+        "admin_password": "Nikhil@2002",
+        "upload_location":"C:\\Users\\Nikhil\\Pictures\\Blog_imgs"
+    }
+}
